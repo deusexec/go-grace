@@ -18,7 +18,6 @@ import (
     "log"
     "net/http"
     "syscall"
-    "testing"
 
     "github.com/deusexec/go-grace"
 )
