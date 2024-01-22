@@ -78,7 +78,6 @@ func main() {
 
 ```bash
 $ go run .
-2025/01/01 15:25:00 Running a server...
 2025/01/01 15:25:00 Server is running...
 ```
 
