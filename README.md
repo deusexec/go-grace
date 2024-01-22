@@ -5,7 +5,7 @@ Go graceful process shutdown.
 ## Install
 
 ```text
-go install github.com/deusexec/go-grace
+go get github.com/deusexec/go-grace@latest
 ```
 
 ## How To Use
